@@ -6,6 +6,12 @@ The dataset was taken from [Properati](https://www.properati.com.ar/?utm_source=
 
 ## Table of contents
 
+| Notebook        | Description          |
+| ------------- |:----------------------:|
+|       | right-aligned          |
+| col 2 is      | centered               |
+| zebra stripes | are neat               |
+
 - Exploratory Data Analysis
 - Model Building using pycaret library
 - Model Building using classical Machine Learning models
